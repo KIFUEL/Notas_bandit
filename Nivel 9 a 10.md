@@ -29,3 +29,4 @@ bandit9@bandit:~$
 usando strings data.txt -n 10 , limitando que solo muestre lineas de mas de 10 caracteres 
 password del siguiente reto es : **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**
 ## Referencias
+

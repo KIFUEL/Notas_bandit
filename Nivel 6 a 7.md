@@ -43,3 +43,4 @@ usando file ./*  listo todos los archivos y los tipos de archivos
 password del siguiente reto es : **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
 ## Referencias
 
+[[Nivel 7 a 8]]

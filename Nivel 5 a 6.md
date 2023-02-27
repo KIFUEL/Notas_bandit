@@ -44,3 +44,5 @@ password del siguiente reto es : **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**
 ## Referencias
 
 [Find human-readable files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/313442/find-human-readable-files)
+
+[[Nivel 6 a 7]]

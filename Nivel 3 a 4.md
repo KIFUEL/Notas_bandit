@@ -36,7 +36,7 @@ password del siguiente reto es : **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**
 [Mostrar los archivos ocultos en Linux (cambiatealinux.com)](https://cambiatealinux.com/mostrar-los-archivos-ocultos-en-linux#:~:text=Desde%20el%20terminal%20con%20el,se%20muestran%20los%20archivos%20ocultos.)
 [Cómo ver archivos ocultos Linux terminal - Solvetic](https://www.solvetic.com/tutoriales/article/5846-como-ver-archivos-ocultos-linux-terminal/)
 
-
+[[Nivel 4 a 5]]
 
 
 

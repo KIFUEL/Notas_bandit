@@ -25,3 +25,4 @@ EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 uniq -u muestra solo las lineas unicas dentro de un archivo de texto 
 password del siguiente reto es : **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 ## Referencias
+[[Nivel 9 a 10]]
