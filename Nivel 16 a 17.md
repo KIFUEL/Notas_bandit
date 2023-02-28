@@ -204,6 +204,11 @@ bandit16@bandit:~$
 C:\Users\Miguel Angel\Documents>ssh -i "contrase;a.txt" bandit17@bandit.labs.overthewire.org -p 2220
 
 
+bandit17@bandit:~$ cd /
+bandit17@bandit:/$ cd etc/
+bandit17@bandit:/etc$ cd bandit_pass/
+bandit17@bandit:/etc/bandit_pass$ cat bandit17
+VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 ```
 
 ## Notas Adicionales

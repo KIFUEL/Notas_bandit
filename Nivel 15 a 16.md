@@ -4,8 +4,8 @@ The password for the next level can be retrieved by submitting the password of t
 **Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof and read the “CONNECTED COMMANDS” section in the manpage. Next to ‘R’ and ‘Q’, the ‘B’ command also works in this version of that command…**
 ## Datos de Acceso
 host :  **bandit.labs.overthewire.org** port 2220
-username is **bandit14**
-ssh:  bandit14@bandit.labs.overthewire.org -p 2220
+username is **bandit15**
+ssh:  bandit15@bandit.labs.overthewire.org -p 2220
 password: **jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt**
 ## Solución
 
