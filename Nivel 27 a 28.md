@@ -49,5 +49,6 @@ bandit27@bandit:/tmp/tmp.xqD9L2K1Rr/repo$
 ```
 
 ## Notas Adicionales
+git clone, comando para copiar un repositorio 
 Password : **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 ## Referencias
